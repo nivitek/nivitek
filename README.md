@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/nivitek/nivitek/blob/main/github_bannercrop.png)
-<h1 align="center">Hey there, I'm Nivedha Kuppuram</h1>
+<h1 align="center">Hey Codemate, I'm Nivedha Kuppuram</h1>
 <h3 align="center">Dedicated Software Engineer in .NET and Web Technologies.</h3>
 <img align="right" src="https://github.com/nivitek/nivitek/blob/main/girl_dev.gif" alt="code_with_me" width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nivitek&label=Account%20Eye%20Shot&color=69e2ba&style=flat" alt="nivitek" /> </p>
