@@ -2,7 +2,7 @@
 <h1 align="center">Hey Codemate, I'm Nivedha Kuppuram</h1>
 <h3 align="center">Dedicated Software Engineer in .NET and Web Technologies.</h3>
 <img align="right" src="https://github.com/nivitek/nivitek/blob/main/girl_dev.gif" alt="code_with_me" width="400"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nivitek&label=Account%20Eye%20Shot&color=69e2ba&style=flat" alt="nivitek" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nivitek&label=Account%20Eye%20Shot&color=007ec6&style=flat" alt="nivitek" /> </p>
 
 - 🔭 I’m currently working on [Saudia Airlines](https://www.saudia.com/)
 
