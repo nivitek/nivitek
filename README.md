@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **.NET Core**
 
+- 👨‍💻 All of my projects are available at [https://nivitek.github.io/portfolio/](https://nivitek.github.io/portfolio/)
+
 - 💬 Ask me about **C# | .NET | ASP.NET MVC | Sitecore Helix and Headless Development | Web Technologies**
 
 - 📫 How to reach me **nivedhageetha99@gmail.com**
