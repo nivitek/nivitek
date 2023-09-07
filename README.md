@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nivitek" alt="nivitek" /></a> </p>
 <img align="right" src="https://github.com/nivitek/nivitek/blob/main/girl_dev.gif" alt="code_with_me" width="400"/>
+
 - 🔭 I’m currently working on [Saudia Airlines](https://www.saudia.com/)
 
 - 🌱 I’m currently learning **ASP.NET Web Services**
