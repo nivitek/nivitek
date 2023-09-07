@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **ASP.NET Web Services**
 
-- 👨‍💻 All of my projects are available at [https://nivitek.github.io/portfolio/](https://nivitek.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Nivi_Portfolio](https://nivitek.github.io/portfolio/)
 
 - 💬 Ask me about **C# | .NET | ASP.NET MVC | Sitecore Helix and Headless Development | Web Technologies**
 
 - 📫 How to reach me **nivedhageetha99@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/nivitek/portfolio/blob/main/assets/images/Nivi_Resume.pdf](https://github.com/nivitek/portfolio/blob/main/assets/images/Nivi_Resume.pdf)
+- 📄 Know about my experiences [Nivi_Resume.pdf](https://github.com/nivitek/portfolio/blob/main/assets/images/Nivi_Resume.pdf)
 
 - ⚡ Fun fact **I am a dimwit-techy :)**
 
