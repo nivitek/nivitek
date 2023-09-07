@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Saudia Airlines](https://www.saudia.com/)
 
-- 🌱 I’m currently learning **.NET Core**
+- 🌱 I’m currently learning **ASP.NET Web Services**
 
 - 👨‍💻 All of my projects are available at [https://nivitek.github.io/portfolio/](https://nivitek.github.io/portfolio/)
 
