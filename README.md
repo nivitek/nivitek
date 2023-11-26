@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Saudia Airlines](https://www.saudia.com/)
 
-- 🌱 I’m currently learning **ASP.NET Web Services**
+- 🌱 I’m currently learning **AngularJS**
 
 - 👨‍💻 All of my projects are available at [Nivi_Portfolio](https://nivitek.github.io/portfolio/)
 
