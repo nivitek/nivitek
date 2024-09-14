@@ -6,13 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nivitek" alt="nivitek" /></a> </p>
 <img align="right" src="https://github.com/nivitek/nivitek/blob/main/girl_dev.gif" alt="code_with_me" width="400"/>
 
-- 🔭 I’m currently working on [Saudia Airlines](https://www.saudia.com/)
+- 🔭 I’m currently working on [AO](https://surgeryreference.aofoundation.org/)
 
-- 🌱 I’m currently learning **AngularJS**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [Nivi_Portfolio](https://nivitek.github.io/portfolio/)
 
-- 💬 Ask me about **C# | .NET | ASP.NET MVC | Sitecore Helix and Headless Development | Web Technologies**
+- 💬 Ask me about **C# | .NET | ASP.NET MVC | Sitecore Helix and Headless Development | Web Technologies | React**
 
 - 📫 How to reach me **nivedhageetha99@gmail.com**
 
